@@ -2,7 +2,7 @@
 
 Welcome to my cybersecurity portfolio!
 
-I'm an aspiring Cybersecurity Analyst with a background in IT support and customer experience. I'm passionate about protecting systems, investigating security incidents, and continuously learning new technologies. This portfolio documents my hands-on projects as I build practical skills in cybersecurity.
+I'm an IT professional transitioning into cybersecurity, with a background in IT support, customer experience, and hands-on security training. I'm passionate about protecting systems, investigating security incidents, and continuously learning new technologies. This portfolio documents my hands-on projects as I build practical skills in cybersecurity.
 
 ## Current Goals
 
