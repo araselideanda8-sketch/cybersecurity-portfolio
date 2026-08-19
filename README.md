@@ -37,7 +37,8 @@ This section will grow as I complete projects throughout my cybersecurity journe
 
 | Project | Description | Status |
 |---------|-------------|--------|
-| Linux Security Fundamentals | Linux commands, permissions, users, and system administration | In Progress |
+| [Linux Process Investigation Case Study](linux/process-investigation-case-study/README.md) | Investigated a simulated high-CPU Linux process, traced parent-child process relationships, analyzed an associated script, and documented evidence-based remediation | Complete |
+| Linux Security Fundamentals | Linux commands, permissions, processes, file inspection, and investigation fundamentals | Complete |
 | Network Traffic Analysis | Investigating packet captures with Wireshark | Planned |
 | Splunk Threat Hunting | Detecting suspicious activity using SIEM logs | Planned |
 | Python Security Automation | Automating security tasks with Python | Planned |
@@ -52,7 +53,7 @@ This section will grow as I complete projects throughout my cybersecurity journe
 
 I'm actively studying:
 
-- Linux administration
+- Linux log analysis and advanced `grep`
 - Network security
 - Threat detection
 - Incident response
@@ -61,7 +62,7 @@ I'm actively studying:
 
 ## Connect With Me
 
-- GitHub: *(We'll add your GitHub profile link after we publish your repository.)*
+- GitHub: [github.com/araselideanda8-sketch](https://github.com/araselideanda8-sketch)
 - LinkedIn: *(We'll add your LinkedIn URL later if you'd like.)*
 
 ---
